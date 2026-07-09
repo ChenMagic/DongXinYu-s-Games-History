@@ -64,10 +64,10 @@
 ©2026 董鑫宇与董鑫宇工作室 版权所有 保留一切权利
 Copyright ©2026 Dongxinyu & Dongxinyu Studio. All Rights Reserved.
 ## 详细信息
-厂商：[董鑫宇工作室](https://www.taptap.cn/developer/275163 "董鑫宇工作室")
-供应商：xuruzhi
-游戏官网：[官网](https://www.taptap.cn/user/759368051 "官网")
-Play 商店：需要
-适龄分级：16周岁+
-系统版本要求：安卓 11 +
-更新时间：2026-06-19
+- 厂商：[董鑫宇工作室](https://www.taptap.cn/developer/275163 "董鑫宇工作室")
+- 供应商：xuruzhi
+- 游戏官网：[官网](https://www.taptap.cn/user/759368051 "官网")
+- Play 商店：需要
+- 适龄分级：16周岁+
+- 系统版本要求：安卓 11 +
+- 更新时间：2026-06-19
