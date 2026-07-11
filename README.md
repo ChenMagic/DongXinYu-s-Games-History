@@ -7,4 +7,4 @@
 |------|------|------|------|
 | 冰与火之舞极限 | × | A_Dance_of_Fire_and_Ice_EXTREME.md | × |
 | 世界的起源 | √| Origin_of_the_World.md | [TapTap](https://www.taptap.cn/app/838422/all-info "TapTap") |
-| 恐怖粽子 | √ | Terrible_Zongzi.md | [TapTap](https://www.taptap.cn/app/873909/all-info "TapTap") |
+| 恐怖粽子 | √ | Terrible_Zongzi.md | [TapTap](https://www.taptap.cn/app/873909/all-info "TapTap") [4399](https://a.4399.cn/game-id-407582.html) [好游快爆](https://m.3839.com/a/199638.htm) |
